@@ -1,10 +1,3 @@
-//
-//  SwiftUI_TransitionApp.swift
-//  SwiftUI-Transition
-//
-//  Created by R. Mark Volkmann on 10/29/21.
-//
-
 import SwiftUI
 
 @main
