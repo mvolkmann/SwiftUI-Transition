@@ -1,6 +1,5 @@
 import SwiftUI
 
-
 struct ContentView: View {
     @State private var include = false
     
@@ -49,7 +48,6 @@ struct ContentView: View {
                     }
                 }
             }
-            
         }
     }
 }
